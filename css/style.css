@@ -65,6 +65,7 @@ body{
     width: 100%;
     
     padding: 1.3rem 0;
+    margin: 0.5rem;
     border: 1px solid lightgray;
 }
 
@@ -104,6 +105,7 @@ body{
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
+    margin-top: 1rem;
 }
 
 .instagram-logout {
@@ -120,7 +122,6 @@ body{
 }
 
 .get-the-app {
-    border:solid 1px red;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -144,7 +145,6 @@ body{
     height: 3rem;
     width: 10rem;
     background-size: cover;
-    border:solid 1px red;
 }
 
 .app-download:nth-child(1) {
